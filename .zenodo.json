@@ -1,0 +1,10 @@
+{
+  "title": "af-onset-within-patient: a within-patient test of AF onset predictors, including the published AF-Mamba weights",
+  "upload_type": "software",
+  "description": "Analysis code for a study testing whether atrial fibrillation (AF) onset predictors trained against healthy controls detect an approaching episode or an AF patient. A plain-PyTorch port of the Mamba layer runs the published AF-Mamba weights on CPU (reproducing the reported AUC 0.974) and scores sinus hours far from any AF episode in the same patients on IRIDIA-AF (out of fold) and SHDB-AF. Retrained HRV models and a 1D CNN compare between-database and within-patient designs on PhysioNet data. No data and no third-party model code are included.",
+  "creators": [
+    {"name": "Halim, Agustino", "orcid": "0009-0008-4388-1174", "affiliation": "Universitas OSO"}
+  ],
+  "license": "MIT",
+  "keywords": ["atrial fibrillation", "onset prediction", "heart rate variability", "Mamba", "benchmark validity", "shortcut learning", "PhysioNet", "IRIDIA-AF"]
+}

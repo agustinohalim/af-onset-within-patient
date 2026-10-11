@@ -1,0 +1,5 @@
+data/
+**/keluaran/
+**/Gambar/
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+lipatan 0: 315 jendela, AF 50, AUROC 0.9611
+lipatan 1: 307 jendela, AF 45, AUROC 0.9489
+lipatan 2: 287 jendela, AF 63, AUROC 0.9902
+lipatan 3: 343 jendela, AF 54, AUROC 0.9904
+lipatan 4: 330 jendela, AF 44, AUROC 0.9789
+AUROC rerata 5 lipatan 0.9739 ± 0.0164; gabungan 0.9701

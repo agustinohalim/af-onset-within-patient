@@ -1,0 +1,10 @@
+h=   0 J1_jam_saja       logistik AUC 0.422 [0.29,0.57] pasien=30
+h=   0 J3_HRV_biasa      logistik AUC 0.582 [0.49,0.69] pasien=30
+h=   0 J3_HRV_biasa      rf       AUC 0.606 [0.53,0.69] pasien=30
+h=   0 J2_HRV_padan_jam  logistik AUC 0.698 [0.41,0.92] pasien=5
+h=   0 J2_HRV_padan_jam  rf       AUC 0.406 [0.18,0.74] pasien=5
+h= 240 J1_jam_saja       logistik AUC 0.556 [0.40,0.72] pasien=22
+h= 240 J3_HRV_biasa      logistik AUC 0.566 [0.49,0.65] pasien=22
+h= 240 J3_HRV_biasa      rf       AUC 0.497 [0.42,0.58] pasien=22
+h= 240 J2_HRV_padan_jam  logistik dilewati: hanya 1 pasien
+h= 240 J2_HRV_padan_jam  rf       dilewati: hanya 1 pasien

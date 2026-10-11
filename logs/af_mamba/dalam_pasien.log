@@ -1,0 +1,11 @@
+ambang validasi per lipatan: [0.1762 0.5071 0.1819 0.3225 0.3085]
+ltafdb jendela: {'jauh': 170, 'pra_af': 2}
+shdb-af jendela: {'jauh': 603, 'pra_af': 42}
+                    n  pasien  prob_median     alarm
+db        jenis                                     
+NSRRR_new sehat   969      54        0.033  0.078431
+NSR_new   sehat   357      18        0.012  0.002801
+ltafdb    jauh    170      27        0.334  0.496471
+          pra_af    2       2        0.508       0.5
+shdb-af   jauh    603      66        0.680  0.813267
+          pra_af   42      40        0.737  0.809524

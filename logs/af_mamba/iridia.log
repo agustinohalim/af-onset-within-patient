@@ -1,0 +1,13 @@
+ambang: [0.1762 0.5071 0.1819 0.3225 0.3085]
+jendela jauh: 3286 dari 142 pasien
+pra_af 228/137 pasien; jauh 3286/142 (OOF 3132/129); sehat 1326
+AUROC pra_af lawan sehat            : 0.974 [0.960; 0.986]
+AUROC jauh (OOF) lawan sehat        : 0.966 [0.950; 0.980]
+AUROC pra_af lawan jauh (OOF)       : 0.517 [0.472; 0.562]
+  pasien yang punya keduanya (129): 0.510 [0.467; 0.551]
+alarm pra_af : 0.912 [0.872; 0.946]
+alarm jauh OOF 4-6 jam (481/129 pasien): 0.917 [0.891; 0.943]
+alarm jauh OOF 6-12 jam (1059/121 pasien): 0.896 [0.854; 0.930]
+alarm jauh OOF 12-24 jam (950/93 pasien): 0.874 [0.816; 0.924]
+alarm jauh OOF 24-inf jam (642/38 pasien): 0.808 [0.683; 0.916]
+alarm jauh, pasien di luar data mereka (154/13): 0.916 [0.832; 0.971]
